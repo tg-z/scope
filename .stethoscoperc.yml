@@ -1,13 +1,5 @@
 integrations:
-  rescuetime:
-    frequency: "daily"
-    overview: true
-    top-categories: true
-    top-activities: false
   last-fm:
-    frequency: "daily"
-    all: true
-  pocket-casts:
     frequency: "daily"
     all: true
   wakatime:
@@ -16,12 +8,12 @@ integrations:
   google-fit:
     frequency: "daily"
     all: true
-  oura-ring:
-    frequency: "daily"
-    all: true
   twitter:
     frequency: "daily"
     all: true
-  # clockify:
-  # spotify:
-  # goodreads:
+  spotify:
+    frequency: "daily"
+    all: true
+  goodreads:
+    frequency: "daily"
+    all: true
