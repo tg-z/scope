@@ -5,9 +5,6 @@ integrations:
   wakatime:
     frequency: "daily"
     all: true
-  google-fit:
-    frequency: "daily"
-    all: true
   twitter:
     frequency: "daily"
     all: true
