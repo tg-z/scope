@@ -11,9 +11,9 @@ integrations:
   twitter:
     frequency: "daily"
     all: true
-  spotify:
-    frequency: "daily"
-    all: true
+  # spotify:
+  #   frequency: "daily"
+  #   all: true
   goodreads:
     frequency: "daily"
     all: true
