@@ -11,9 +11,6 @@ integrations:
   # spotify:
   #   frequency: "daily"
   #   all: true
-  google-fit:
-    frequency: "daily"
-    all: false
   goodreads:
     frequency: "daily"
     all: true
