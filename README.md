@@ -50,8 +50,6 @@ A [`.stethoscoperc.yml`](./.stethoscoperc.yml) file is used for configuration. F
 
 This is a real-time screenshot of [Anand Chowdhary](https://anandchowdhary.com)'s RescueTime weekly overview URL, fetched from [AnandChowdhary/life](https://github.com/AnandChowdhary/life):
 
-[![Screenshot of visualization](https://api.microlink.io/?url=https%3A%2F%2Fstethoscope.js.org%2Fembed%2F%3Frepo%3DAnandChowdhary%252Flife%26api%3Drescuetime-time-tracking%26latest%3Dtop-overview.weeks&waitFor=5000&waitUntil=networkidle2&screenshot=true&meta=false&embed=screenshot.url&device=ipadlandscape)](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks)
-
 Learn how to make your own embeds on https://stethoscope.js.org/docs/embed.
 
 <iframe
