@@ -1,7 +1,7 @@
 # <a href="https://stethoscope.js.org"><img alt="Stethoscope" src="https://stethoscope.js.org/branding/screenshot.jpeg"></a>
 
 [![Stethoscope CI](https://github.com/stethoscope-js/stethoscope/workflows/Stethoscope%20CI/badge.svg)](https://github.com/stethoscope-js/stethoscope/actions?query=workflow%3A%22Stethoscope+CI%22)
-[![Update Template CI](https://github.com/stethoscope-js/stethoscope/workflows/Update%20Template%20CI/badge.svg)](https://github.com/stethoscope-js/stethoscope/actions?query=workflow%3A%22Update+Template+CI%22)
+
 
 Track, visualize, and embed all your health and life data — location, health, work, play, and more.
 
@@ -48,13 +48,12 @@ A [`.stethoscoperc.yml`](./.stethoscoperc.yml) file is used for configuration. F
 
 ## 📊 Example
 
-This is a real-time screenshot of [Anand Chowdhary](https://anandchowdhary.com)'s RescueTime weekly overview URL, fetched from [AnandChowdhary/life](https://github.com/AnandChowdhary/life):
-
 Learn how to make your own embeds on https://stethoscope.js.org/docs/embed.
 
 <iframe
   title="Wakatime overview"
   src="https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=days&color=%2316a085"
+  height="100%" width="100%"
 ></iframe>
 
 ## 📄 License
