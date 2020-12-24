@@ -54,6 +54,11 @@ This is a real-time screenshot of [Anand Chowdhary](https://anandchowdhary.com)'
 
 Learn how to make your own embeds on https://stethoscope.js.org/docs/embed.
 
+<iframe
+  title="Wakatime overview"
+  src="https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=days&color=%2316a085"
+></iframe>
+
 ## 📄 License
 
 - Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com)
