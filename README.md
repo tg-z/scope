@@ -7,13 +7,13 @@ Track, visualize, and embed all your health and life data — location, health, 
 
 [**To get started, visit stethoscope.js.org →**](https://stethoscope.js.org)
 
-## 🌟 Features
+## 🌟 features
 
 - Track data from anywhere (health, music, time tracking, etc.)
 - Generate easy-to-consume API endpoints for your data
 - Daily, weekly, monthly, and yearly graphs with easy embedding
 
-### Supported services
+### supported services
 
 <!-- prettier-ignore-start -->
 | Service | API | Sample data | Docs |
@@ -30,7 +30,7 @@ Track, visualize, and embed all your health and life data — location, health, 
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg" width="12"> Twitter | [`src/api/twitter.ts`](https://github.com/stethoscope-js/integrations/tree/master/src/api/twitter.ts) | [View data](./data/twitter-tweets) | [View docs →](https://stethoscope.js.org/docs/integrations/twitter) |
 <!-- prettier-ignore-end -->
 
-## 🌱 [Getting started](https://stethoscope.js.org/docs/)
+## 🌱 [getting started](https://stethoscope.js.org/docs/)
 
 1. Create a repository [using this template](https://github.com/stethoscope-js/stethoscope/generate)
 2. Delete the [`./data`](./data) directory
@@ -38,25 +38,25 @@ Track, visualize, and embed all your health and life data — location, health, 
 4. Add the required GitHub repository secrets
 5. [Enable publishing](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) the `master` branch
 
-## 📝 Documentation
+## 📝 documentation
 
-**Visit our docs website: https://stethoscope.js.org**
+**visit our docs website: https://stethoscope.js.org**
 
-## 🛠️ Configuration
+## 🛠️ configuration
 
 A [`.stethoscoperc.yml`](./.stethoscoperc.yml) file is used for configuration. For more information, see https://stethoscope.js.org/docs/configuration.
 
-## 📊 Example
+## 📊 example
 
 Learn how to make your own embeds on https://stethoscope.js.org/docs/embed.
 
 <iframe
   title="Wakatime overview"
   src="https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=days&color=%2316a085"
-  height="100%" width="100%"
+  width="100%"
 ></iframe>
 
-## 📄 License
+## 📄 license
 
 - Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com)
 - Data in [`./data`](./data): [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/) © [Anand Chowdhary](https://anandchowdhary.com)
